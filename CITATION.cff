@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this analysis, cite the repository and the dated report."
+title: "Når taletid ikke betyr å bli hørt"
+type: dataset
+authors:
+  - family-names: "Tednes"
+    given-names: "Anders Pippi"
+repository-code: "https://github.com/bspippi1337/snak"
+date-released: 2026-08-06
+version: "1.0.0"
