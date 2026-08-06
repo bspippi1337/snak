@@ -29,31 +29,26 @@ Pippi foretrekker skriftlig kommunikasjon og hadde forberedt flere tekster. I op
 
 Likevel blir ingen av de identifiserte fortellingene fullført. Høy taletid kan derfor ikke uten videre tolkes som kommunikativ dominans. En betydelig del av Pippis tale består av omstarter, presiseringer og forsøk på å gjenopprette et avbrutt poeng.
 
-## Dokumenter
+## Les analysen
 
-- [Full analyse som PDF](report/hele-samtaleanalysen.pdf)
-- [Selvstendig HTML-rapport](docs/index.html)
 - [Detaljert funnoppsummering](FINDINGS.md)
-- [Metode og definisjoner](METHODOLOGY.md)
+- [Metode og operasjonelle definisjoner](METHODOLOGY.md)
 - [Begrensninger og etiske rammer](LIMITATIONS.md)
+- [Tegneseriemanuset som forklarer funnet](COMIC.md)
+- [Siteringsinformasjon](CITATION.cff)
 
 ## Data
 
 - [`data/talk_time.csv`](data/talk_time.csv): taletid, andeler og talerturer
-- [`data/interruptions_primary.csv`](data/interruptions_primary.csv): tidskodede hendelser og klassifikasjon
+- [`data/interruption_events.csv`](data/interruption_events.csv): tidskodede konkurrerende overlapp og gulvovertakelser
+- [`data/README.md`](data/README.md): feltforklaringer og definisjoner
 
-Rå lyd og full råtranskripsjon er bevisst ikke publisert i repoet.
-
-## Tegneseriestripen
-
-![Satirisk åtteruters forklaring](assets/tegneseriestripe.webp)
-
-Stripen er en pedagogisk og satirisk visualisering av analysens hovedskille: Man kan snakke lenge og likevel bli stilnet dersom fortellingen aldri får stå ferdig.
+Rå lyd, full råtranskripsjon og personlige kildedokumenter er bevisst ikke publisert i dette offentlige repoet. Den komplette PDF-rapporten oppbevares separat.
 
 ## Viktig avgrensning
 
 Dette er en **beskrivende, modellbasert samtaleanalyse**, ikke en rettsfonetisk rapport, medisinsk vurdering eller juridisk avgjørelse. Talermerking, transkripsjon og hendelsesklassifisering har usikkerhet. Påstandene gjelder det analyserte materialet og skal ikke generaliseres til personenes karakter eller intensjon uten ytterligere dokumentasjon.
 
-## Reproduserbarhet
+## Kort sagt
 
-Kildematerialets og sluttproduktenes SHA-256-kontrollsummer er samlet i [`SHA256SUMS.txt`](SHA256SUMS.txt). Definisjonene for avbrudd og gulvovertakelse står i [`METHODOLOGY.md`](METHODOLOGY.md).
+**Pippi snakket mest. Zlatko styrte oftere flyten. Pippi hadde forberedt teksten, men fikk ikke fortellingen ferdig.**
