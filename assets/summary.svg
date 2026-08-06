@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+<title id="title">Taletid og samtalekontroll</title>
+<desc id="desc">Pippi hadde 70,66 prosent av taletiden. Zlatko hadde 29,34 prosent, men flere gulvovertakelser og konkurrerende overlapp.</desc>
+<rect width="1200" height="630" fill="#0b0d0f"/>
+<rect x="48" y="48" width="1104" height="534" rx="28" fill="#14181c" stroke="#35404a" stroke-width="2"/>
+<text x="88" y="118" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="700" fill="#f3f5f7">Mye taletid er ikke det samme som kontroll</text>
+<text x="88" y="160" font-family="Arial,Helvetica,sans-serif" font-size="22" fill="#aeb8c2">Primæranalyse: Record-1 etter Chris’ avgang + hele Record-3</text>
+<text x="88" y="230" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="700" fill="#d7e3ec">Taletid</text>
+<rect x="88" y="252" width="830" height="56" rx="12" fill="#27313a"/>
+<rect x="88" y="252" width="586" height="56" rx="12" fill="#67b7dc"/>
+<text x="102" y="289" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="700" fill="#081015">Pippi 70,66 %</text>
+<text x="690" y="289" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="700" fill="#f4f7f9">Zlatko 29,34 %</text>
+<g font-family="Arial,Helvetica,sans-serif">
+<rect x="88" y="360" width="306" height="142" rx="18" fill="#1d252b" stroke="#35404a"/>
+<text x="112" y="402" font-size="20" fill="#aeb8c2">Vellykkede gulvovertakelser</text>
+<text x="112" y="463" font-size="46" font-weight="700" fill="#f3f5f7">Zlatko 14</text>
+<text x="112" y="492" font-size="19" fill="#aeb8c2">Pippi 11</text>
+<rect x="420" y="360" width="306" height="142" rx="18" fill="#1d252b" stroke="#35404a"/>
+<text x="444" y="402" font-size="20" fill="#aeb8c2">Konkurrerende overlapp</text>
+<text x="444" y="463" font-size="46" font-weight="700" fill="#f3f5f7">Zlatko 30</text>
+<text x="444" y="492" font-size="19" fill="#aeb8c2">Pippi 19</text>
+<rect x="752" y="360" width="306" height="142" rx="18" fill="#1d252b" stroke="#35404a"/>
+<text x="776" y="402" font-size="20" fill="#aeb8c2">Hovedfunn</text>
+<text x="776" y="448" font-size="24" font-weight="700" fill="#f3f5f7">Flest ord ≠ mest flyt</text>
+<text x="776" y="484" font-size="18" fill="#aeb8c2">Pippi snakket mest.</text>
+<text x="776" y="510" font-size="18" fill="#aeb8c2">Zlatko styrte oftere retningen.</text>
+</g>
+<text x="88" y="552" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#87939d">Beskrivende, modellbasert analyse. Ikke en juridisk eller rettsfonetisk konklusjon.</text>
+</svg>
